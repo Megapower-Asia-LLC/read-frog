@@ -92,7 +92,7 @@
     "css-tree": "^3.2.1",
     "debounce": "^3.0.0",
     "deepmerge-ts": "^8.0.0",
-    "defuddle": "^0.18.1",
+    "defuddle": "^0.19.1",
     "dequal": "^2.0.3",
     "dexie": "^4.4.3",
     "entities": "^8.0.0",
